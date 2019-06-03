@@ -9,9 +9,9 @@ I am a self-driven Software Engineering student with two years of leadership exp
 ### Research Assistant, [Human Experience Research Lab](http://www.hxrlab.org/)
 _Gainesville, FL / May 2019 - August 2019_
 
-I am currently participating in research at the University of Florida. I am contributing to a project that aims to use AR/VR to improve the experience of those completing physical therapy. My contribution is computational, I am helping to analyze the data by detecting patterns in the data. 
+I am currently participating in research at the University of Florida under Dr. Juan Gilbert. I am contributing to a project that aims to use AR/VR to improve the experience of those completing physical therapy. My contribution is computational, I am helping to analyze the data by detecting patterns in the data. While accomplishing this task, I would like to build my skills in R.
 
-The project I am in charge of concerns analyzing DeepFakes. My focus is on understanding the consumer's perception of fake forms of visual media and identifying the factors that contribute to an individual thinking something that is fake is actually real
+The project I am in charge of concerns analyzing DeepFakes. My focus is on understanding the consumer's perception of fake forms of visual media and identifying the factors that contribute to an individual thinking something that is fake is actually real. I will e creating visual materials to be used in multiple user studies.
 
 ### GE Aviation, Engineering Intern
 _Cincinnati, OH / May 2018 - August 2018_
