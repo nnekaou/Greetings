@@ -1,4 +1,4 @@
-# Welcome to Nneka's Pages
+# Welcome to Nneka's Page!
 
 Welcome to my newest webpage. Here you can find my interests and a little bit about my experiences. I am excited for you to get to know me! Feel free to contact me at nudeagba@stevens.edu.
 
@@ -21,10 +21,10 @@ _Cincinnati, OH / May 2018 - August 2018_
 
 ```
 This was a great experience because it was my intoduction to data analysis. When I began this internship, 
-I was a Computer Engineering major with a goal of working with robotics after graduation. This experience showed me 
-I could utilize my skills to create in a realm other than the physical. I could investigate multitudes of 
-problems and derive solutions! At the end of this summer, I changed my major to Software Engineering. 
-I have had a fun-filled and challenging experience ever since.
+I was a Computer Engineering major with a goal of working with robotics after graduation. This experience 
+showed me I could utilize my skills to create in a realm other than the physical. I could investigate 
+multitudes of problems and derive solutions! At the end of this summer, I changed my major to Software 
+Engineering. I have had a fun-filled and challenging experience ever since.
 ```
 
 ### Resident Assistant 
