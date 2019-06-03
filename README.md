@@ -6,7 +6,7 @@ I am a self-driven Software Engineering student with two years of leadership exp
 
 ## Experiences
 
-### Research Assistant, [Human Experience Research Lab] (http://www.hxrlab.org/)
+### Research Assistant, [Human Experience Research Lab](http://www.hxrlab.org/)
 _Gainesville, FL / May 2019 - August 2019_
 
 I am currently participating in research at the University of Florida. I am contributing to a project that aims to use AR/VR to improve the experience of those completing physical therapy. My contribution is computational, I am helping to analyze the data by detecting patterns in the data. 
