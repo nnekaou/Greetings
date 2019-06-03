@@ -68,9 +68,9 @@ support and push those around me to shine.
 
 ## Campus Involvement
 
-Board member of Philanthropy Committee 
-Board member of SSE Dean's Student Advisory Board 
-Creative Director, Black Student Union 
-Campus Career Center Mentor
+- Board member of Philanthropy Committee
+- Board member of SSE Dean's Student Advisory Board 
+- Creative Director, Black Student Union 
+- Campus Career Center Mentor
 
 _US Citizen_
