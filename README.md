@@ -20,7 +20,11 @@ _Cincinnati, OH / May 2018 - August 2018_
 - Independently designed a Spotfire proposal to create an automated process of catalog creation and maintenance
 
 ```
-This was a great experience because it was my intoduction to data analysis. When I began this internship, I was a Computer Engineering major with a goal of working with robotics after graduation. This experience showed me I could utilize my skills to create in a realm other than the physical. I could investigate multitudes of problems and derive solutions! At the end of this summer, I changed my major to Software Engineering. I have had a fun-filled and challenging experience ever since.
+This was a great experience because it was my intoduction to data analysis. When I began this internship, 
+I was a Computer Engineering major with a goal of working with robotics after graduation. This experience showed me 
+I could utilize my skills to create in a realm other than the physical. I could investigate multitudes of 
+problems and derive solutions! At the end of this summer, I changed my major to Software Engineering. 
+I have had a fun-filled and challenging experience ever since.
 ```
 
 ### Resident Assistant 
@@ -30,7 +34,14 @@ _Stevens Institute of Technology  /  August 2017 – Present_
 - Presented on utilizing behavior analysis for effective programming and communication at the 2018 MUCUHO SSLI Conference
 
 ```
-This was an eye-opening experience for me. I began my career as an RA in my sophomore year. I expected the social challenges, as I am a bit more introverted than extroverted, but there was so much for me to learn. I had an idealistic vision of creating a community where everyone feels they have support. Little did I know, making my presense known was the easy part. Deadlines appear out of nowhere and weird things just... tend to happen. Not everyone will want to get to know you and sometimes you need to prioritize your own health before you can help anyone else. I was able to build organization, empathy, observation, focus, and maturity from this role. It has had a profound impact on my college experience.
+This was an eye-opening experience for me. I began my career as an RA in my sophomore year. 
+I expected the social challenges, as I am a bit more introverted than extroverted, but there was 
+so much for me to learn. I had an idealistic vision of creating a community where everyone feels 
+they have support. Little did I know, making my presense known was the easy part. Deadlines appear 
+out of nowhere and weird things just... tend to happen. Not everyone will want to get to know you 
+and sometimes you need to prioritize your own health before you can help anyone else. I was able to 
+build organization, empathy, observation, focus, and maturity from this role. It has had a profound 
+impact on my college experience.
 ```
 
 ### New Jersey Zone Chair
@@ -45,7 +56,14 @@ _Stevens Institute of Technology  /  May 2017 – May 2018_
 -  Increased the hire rate among graduating chapter members through implementing a professional development series to better prepare new members
 
 ```
-The National Society of Black Engineers is the most impactful aspect of my college career so far. I have been in four positions of leadership: Chapter President, New Jersey Zone Chair, Business Diversity Chair, and Regional Leadership Conference Planning Chairperson. Each position pushed me further outside of my comfort zone. Each task I completed left me with a sense of accomplishment and a desire to do it better next time. A core aspect of my identity is mentorship. I want to be able to utilize my skills and strengths to uplift others and let them see their strengths. I see so much potential in those around me and they push me to be a better, stronger, and wiser person. I hope to help mirror that support and push those around me to shine.
+The National Society of Black Engineers is the most impactful aspect of my college career so far. 
+I have been in four positions of leadership: Chapter President, New Jersey Zone Chair, 
+Business Diversity Chair, and Regional Leadership Conference Planning Chairperson. Each position pushed me 
+further outside of my comfort zone. Each task I completed left me with a sense of accomplishment and a 
+desire to do it better next time. A core aspect of my identity is mentorship. I want to be able to 
+utilize my skills and strengths to uplift others and let them see their strengths. I see so much potential 
+in those around me and they push me to be a better, stronger, and wiser person. I hope to help mirror that 
+support and push those around me to shine.
 ```
 
 ## Campus Involvement
