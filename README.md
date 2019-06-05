@@ -29,8 +29,9 @@ Engineering. I have had a fun-filled and challenging experience ever since.
 
 ### Resident Assistant 
 _Stevens Institute of Technology  /  August 2017 – Present_
--  Cultivated positive morale and resilient attitude by developing an inclusive community among first- and second-year students
+-  Cultivated positive morale and resilient attitude by developing an inclusive community within an area of approximately 40 residents
 - Strengthened campus relations by facilitating and supporting student and faculty exchanges
+- Trained in: Crisis Management, Alcohol and Drug Awareness, Mental Health Awareness, Confidentiality, and Mediation.
 - Presented on utilizing behavior analysis for effective programming and communication at the 2018 MUCUHO SSLI Conference
 
 ```
