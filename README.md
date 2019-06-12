@@ -2,7 +2,7 @@
 
 Welcome to my newest webpage. Here you can find my interests and a little bit about my experiences. I am excited for you to get to know me! Feel free to contact me at nudeagba@stevens.edu.
 
-I am a self-driven Software Engineering student with two years of leadership experience. As a student with a strong interest in technology and social sciences; I am eager to obtain a research position that will allow me to expand my skills in data analysis and computational social science.
+A self-driven Software Engineering student with three years of work and leadership experience. As a student with a strong interest in technology and social sciences; I am eager to obtain a position that will allow me to expand my skills in data analysis and computational social science.
 
 ## Experiences
 
@@ -15,9 +15,9 @@ The project I am in charge of concerns analyzing DeepFakes. My focus is on under
 
 ### GE Aviation, Engineering Intern
 _Cincinnati, OH / May 2018 - August 2018_
-- Performed high volume pricing analysis to optimize profit margins and locate payment errors
-- Reduced turnaround time by 50% by streamlining company-wide project requests 
-- Independently designed a Spotfire proposal to create an automated process of catalog creation and maintenance
+- Performed high volume pricing analysis to optimize profit margins and locate payment errors.
+- Reduced turnaround time by 50% by streamlining company-wide project requests.
+- Independently designed a Spotfire proposal to create an automated process of catalog creation and maintenance.
 
 ```
 This was a great experience because it was my intoduction to data analysis. When I began this internship, 
@@ -29,10 +29,10 @@ Engineering. I have had a fun-filled and challenging experience ever since.
 
 ### Resident Assistant 
 _Stevens Institute of Technology  /  August 2017 – Present_
--  Cultivated positive morale and resilient attitude by developing an inclusive community within an area of approximately 40 residents
-- Strengthened campus relations by facilitating and supporting student and faculty exchanges
+-  Cultivated positive morale and resilient attitude by developing an inclusive community within an area of approximately 40 residents.
+- Strengthened campus relations by facilitating and supporting student and faculty exchanges.
 - Trained in: Crisis Management, Alcohol and Drug Awareness, Mental Health Awareness, Confidentiality, and Mediation.
-- Presented on utilizing behavior analysis for effective programming and communication at the 2018 MUCUHO SSLI Conference
+- Presented on utilizing behavior analysis for effective programming and communication at the 2018 MUCUHO SSLI Conference.
 
 ```
 This was an eye-opening experience for me. I began my career as an RA in my sophomore year. 
@@ -48,13 +48,13 @@ impact on my college experience.
 ### New Jersey Zone Chair
 _National Society of Black Engineers  /  May 2018 – Present_
 - Successfully orchestrate and conducted a state-wide conference through team management, marketing, and content construction.
-- Manage and advise a zone of 300+ members on leadership and conflict management 
-- Promote regional collaboration and networking by facilitating intercollegiate activities
+- Manage and advise a zone of 300+ members on leadership and conflict management.
+- Promote regional collaboration and networking by facilitating intercollegiate activities.
 
 ### NSBE Chapter President 
 _Stevens Institute of Technology  /  May 2017 – May 2018_
-- Doubled the membership of the current university chapter by coordinating a successful recruitment initiative 
--  Increased the hire rate among graduating chapter members through implementing a professional development series to better prepare new members
+- Doubled the membership of the current university chapter by coordinating a successful recruitment initiative.
+-  Increased the hire rate among graduating chapter members through implementing a professional development series to better prepare new members.
 
 ```
 The National Society of Black Engineers is the most impactful aspect of my college career so far. 
