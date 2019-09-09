@@ -2,7 +2,9 @@
 
 Welcome to my newest webpage. Here you can find my interests and a little bit about my experiences. I am excited for you to get to know me! Feel free to contact me at nudeagba@stevens.edu.
 
-A self-driven Software Engineering student with three years of work and leadership experience. As a student with a strong interest in technology and social sciences; I am eager to obtain a position that will allow me to expand my skills in data analysis and computational social science.
+A self-driven Software Engineering student with three years of work and leadership experience. I am interested in the effect of technology in public urban spaces and how technology can be utilized to foster human interaction. This past summer, I conducted research at the University of Florida under Dr. Juan Gilbert on the human perception of altered media and the use of AR/VR for physical therapy.
+
+The emergence of smart city technology and devices intending to be used to solve mental and social problems inspired my direction of research. I would like to study the intent versus the impact of technological advancements in public spaces. As the emergence of smart spaces is a global phenomenon, I would also like to understand the cultural and environmental differences that direct data-driven design.
 
 ## Experiences
 
